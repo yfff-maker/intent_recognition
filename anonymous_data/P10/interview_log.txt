@@ -1,0 +1,2 @@
+1. The button styles are inconsistent across pages.
+2. I expected a different behavior when clicking the profile icon.

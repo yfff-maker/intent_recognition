@@ -1,0 +1,2 @@
+1. I couldn't find the settings menu easily.
+2. The default values in the form were confusing.

@@ -1,0 +1,4 @@
+1. Login: The submit response is slow, making me think the issue was elsewhere. The name 'submit' is ambiguous. The effective clickable area is small; you have to click exactly on the text.
+2. Upload Courseware: The page entry is very hard to find; 'c1' does not look like a control.
+3. Upload Courseware: The long page is not obvious. There is blank space at the bottom, so I didn't realize it was a long page.
+4. Homepage: The background is misleading.

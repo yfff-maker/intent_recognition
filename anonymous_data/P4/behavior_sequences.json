@@ -1,0 +1,898 @@
+[
+  {
+    "operationId": "FirstEnter-1728441364090-00000000",
+    "page": "First Enter",
+    "module": "None",
+    "widget": "None",
+    "startTimeTick": 0,
+    "duration": 0
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000001",
+    "page": "Home",
+    "module": "NLogin",
+    "widget": "N-Login",
+    "startTimeTick": 14684,
+    "duration": 31
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000002",
+    "page": "Log in",
+    "module": "Login",
+    "widget": "L-Username",
+    "startTimeTick": 19542,
+    "duration": 60
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000003",
+    "page": "Log in",
+    "module": "None",
+    "widget": "Keypress",
+    "startTimeTick": 25707,
+    "duration": 4391
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000004",
+    "page": "Log in",
+    "module": "Login",
+    "widget": "L-Password",
+    "startTimeTick": 30098,
+    "duration": 64
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000005",
+    "page": "Log in",
+    "module": "None",
+    "widget": "Keypress",
+    "startTimeTick": 31167,
+    "duration": 3041
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000006",
+    "page": "Log in",
+    "module": "None",
+    "widget": "pL-Submit",
+    "startTimeTick": 34209,
+    "duration": 56
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000007",
+    "page": "Log in",
+    "module": "Login",
+    "widget": "L-Submit",
+    "startTimeTick": 43300,
+    "duration": 55
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000039",
+    "page": "Home",
+    "module": "NSignup",
+    "widget": "N-Signup",
+    "startTimeTick": 179063,
+    "duration": 60
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000040",
+    "page": "Sign up",
+    "module": "None",
+    "widget": "Blank(986, 294)",
+    "startTimeTick": 181917,
+    "duration": 33
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000041",
+    "page": "Sign up",
+    "module": "Signup",
+    "widget": "SGNP-Username",
+    "startTimeTick": 182227,
+    "duration": 72
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000042",
+    "page": "Sign up",
+    "module": "None",
+    "widget": "Keypress",
+    "startTimeTick": 184961,
+    "duration": 4045
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000043",
+    "page": "Sign up",
+    "module": "Signup",
+    "widget": "SGNP-Password",
+    "startTimeTick": 189006,
+    "duration": 87
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000044",
+    "page": "Sign up",
+    "module": "None",
+    "widget": "Keypress",
+    "startTimeTick": 191012,
+    "duration": 2390
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000045",
+    "page": "Sign up",
+    "module": "Signup",
+    "widget": "SGNP-CPassword",
+    "startTimeTick": 193402,
+    "duration": 79
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000046",
+    "page": "Sign up",
+    "module": "None",
+    "widget": "Keypress",
+    "startTimeTick": 194410,
+    "duration": 2260
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000047",
+    "page": "Sign up",
+    "module": "Signup",
+    "widget": "SGNP-Email",
+    "startTimeTick": 196671,
+    "duration": 45
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000048",
+    "page": "Sign up",
+    "module": "None",
+    "widget": "Keypress",
+    "startTimeTick": 201650,
+    "duration": 9387
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000049",
+    "page": "Sign up",
+    "module": "Signup",
+    "widget": "SGNP-Submit",
+    "startTimeTick": 211037,
+    "duration": 41
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000050",
+    "page": "Sign up",
+    "module": "None",
+    "widget": "pSGNP-Submit",
+    "startTimeTick": 215692,
+    "duration": 72
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000051",
+    "page": "Sign up",
+    "module": "Signup",
+    "widget": "SGNP-Username",
+    "startTimeTick": 217072,
+    "duration": 66
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000052",
+    "page": "Sign up",
+    "module": "None",
+    "widget": "Keypress",
+    "startTimeTick": 218779,
+    "duration": 4219
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000053",
+    "page": "Sign up",
+    "module": "Signup",
+    "widget": "SGNP-Password",
+    "startTimeTick": 222998,
+    "duration": 65
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000054",
+    "page": "Sign up",
+    "module": "None",
+    "widget": "Keypress",
+    "startTimeTick": 223865,
+    "duration": 2090
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000055",
+    "page": "Sign up",
+    "module": "Signup",
+    "widget": "SGNP-CPassword",
+    "startTimeTick": 225956,
+    "duration": 55
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000056",
+    "page": "Sign up",
+    "module": "None",
+    "widget": "Keypress",
+    "startTimeTick": 226970,
+    "duration": 2169
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000057",
+    "page": "Sign up",
+    "module": "Signup",
+    "widget": "SGNP-Email",
+    "startTimeTick": 229139,
+    "duration": 51
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000058",
+    "page": "Sign up",
+    "module": "None",
+    "widget": "Keypress",
+    "startTimeTick": 232771,
+    "duration": 6396
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000059",
+    "page": "Sign up",
+    "module": "None",
+    "widget": "pSGNP-Submit",
+    "startTimeTick": 239168,
+    "duration": 65
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000060",
+    "page": "Sign up",
+    "module": "Signup",
+    "widget": "SGNP-Submit",
+    "startTimeTick": 246699,
+    "duration": 74
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000061",
+    "page": "Sign up",
+    "module": "Signup",
+    "widget": "SGNP-Username",
+    "startTimeTick": 256449,
+    "duration": 65
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000062",
+    "page": "Sign up",
+    "module": "None",
+    "widget": "Keypress",
+    "startTimeTick": 258696,
+    "duration": 3260
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000063",
+    "page": "Sign up",
+    "module": "Signup",
+    "widget": "SGNP-Password",
+    "startTimeTick": 261956,
+    "duration": 131
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000064",
+    "page": "Sign up",
+    "module": "None",
+    "widget": "Keypress",
+    "startTimeTick": 262903,
+    "duration": 2697
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000065",
+    "page": "Sign up",
+    "module": "Signup",
+    "widget": "SGNP-CPassword",
+    "startTimeTick": 265600,
+    "duration": 57
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000066",
+    "page": "Sign up",
+    "module": "None",
+    "widget": "Keypress",
+    "startTimeTick": 266436,
+    "duration": 2366
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000067",
+    "page": "Sign up",
+    "module": "Signup",
+    "widget": "SGNP-Email",
+    "startTimeTick": 268802,
+    "duration": 51
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000068",
+    "page": "Sign up",
+    "module": "None",
+    "widget": "Keypress",
+    "startTimeTick": 269789,
+    "duration": 6092
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000069",
+    "page": "Sign up",
+    "module": "None",
+    "widget": "pSGNP-Submit",
+    "startTimeTick": 275881,
+    "duration": 60
+  },
+  {
+    "operationId": "NotLogin-1728441364090-00000070",
+    "page": "Sign up",
+    "module": "Signup",
+    "widget": "SGNP-Submit",
+    "startTimeTick": 280669,
+    "duration": 11
+  },
+  {
+    "operationId": "test1-1728441364090-00000008",
+    "page": "Home",
+    "module": "None",
+    "widget": "Scroll",
+    "startTimeTick": 53409,
+    "duration": 94
+  },
+  {
+    "operationId": "test1-1728441364090-00000010",
+    "page": "Home",
+    "module": "NCourse",
+    "widget": "N-Course",
+    "startTimeTick": 56872,
+    "duration": 53
+  },
+  {
+    "operationId": "test1-1728441364090-00000011",
+    "page": "Courses",
+    "module": "Create",
+    "widget": "C-coursename",
+    "startTimeTick": 60479,
+    "duration": 83
+  },
+  {
+    "operationId": "test1-1728441364090-00000012",
+    "page": "Courses",
+    "module": "None",
+    "widget": "Keypress",
+    "startTimeTick": 61927,
+    "duration": 5491
+  },
+  {
+    "operationId": "test1-1728441364090-00000013",
+    "page": "Courses",
+    "module": "Create",
+    "widget": "C-Confirm",
+    "startTimeTick": 67419,
+    "duration": 81
+  },
+  {
+    "operationId": "test1-1728441364090-00000014",
+    "page": "Courses",
+    "module": "None",
+    "widget": "pCourses-Status",
+    "startTimeTick": 77948,
+    "duration": 67
+  },
+  {
+    "operationId": "test1-1728441364090-00000015",
+    "page": "Courses",
+    "module": "None",
+    "widget": "pCourses-Status",
+    "startTimeTick": 80003,
+    "duration": 61
+  },
+  {
+    "operationId": "test1-1728441364090-00000016",
+    "page": "Courses",
+    "module": "None",
+    "widget": "pCourses-Status",
+    "startTimeTick": 81887,
+    "duration": 64
+  },
+  {
+    "operationId": "test1-1728441364090-00000017",
+    "page": "Courses",
+    "module": "None",
+    "widget": "pCourses-Status",
+    "startTimeTick": 83520,
+    "duration": 52
+  },
+  {
+    "operationId": "test1-1728441364090-00000018",
+    "page": "Courses",
+    "module": "NCourse",
+    "widget": "N-Course",
+    "startTimeTick": 96695,
+    "duration": 49
+  },
+  {
+    "operationId": "test1-1728441364090-00000019",
+    "page": "Courses",
+    "module": "Create",
+    "widget": "C-Confirm",
+    "startTimeTick": 98584,
+    "duration": 56
+  },
+  {
+    "operationId": "test1-1728441364090-00000020",
+    "page": "Courses",
+    "module": "Search",
+    "widget": "SRCH-Yes",
+    "startTimeTick": 100939,
+    "duration": 49
+  },
+  {
+    "operationId": "test1-1728441364090-00000021",
+    "page": "Courses",
+    "module": "Search",
+    "widget": "SRCH-input",
+    "startTimeTick": 101554,
+    "duration": 49
+  },
+  {
+    "operationId": "test1-1728441364090-00000022",
+    "page": "Courses",
+    "module": "None",
+    "widget": "Scroll",
+    "startTimeTick": 108022,
+    "duration": 68
+  },
+  {
+    "operationId": "test1-1728441364090-00000023",
+    "page": "Courses",
+    "module": "Home",
+    "widget": "N-Home",
+    "startTimeTick": 112228,
+    "duration": 62
+  },
+  {
+    "operationId": "test1-1728441364090-00000024",
+    "page": "Home",
+    "module": "Home",
+    "widget": "N-ASSTclassroom",
+    "startTimeTick": 113230,
+    "duration": 51
+  },
+  {
+    "operationId": "test1-1728441364090-00000025",
+    "page": "Home",
+    "module": "NCourse",
+    "widget": "N-Course",
+    "startTimeTick": 114456,
+    "duration": 62
+  },
+  {
+    "operationId": "test1-1728441364090-00000026",
+    "page": "Courses",
+    "module": "CheckCourse",
+    "widget": "CC-coursename",
+    "startTimeTick": 117063,
+    "duration": 49
+  },
+  {
+    "operationId": "test1-1728441364090-00000027",
+    "page": "Courses",
+    "module": "None",
+    "widget": "pCourses-Status",
+    "startTimeTick": 117739,
+    "duration": 26
+  },
+  {
+    "operationId": "test1-1728441364090-00000028",
+    "page": "Course Detail",
+    "module": "None",
+    "widget": "Blank(703, 383)",
+    "startTimeTick": 131416,
+    "duration": 60
+  },
+  {
+    "operationId": "test1-1728441364090-00000029",
+    "page": "Course Detail",
+    "module": "None",
+    "widget": "Blank(647, 391)",
+    "startTimeTick": 132589,
+    "duration": 49
+  },
+  {
+    "operationId": "test1-1728441364090-00000030",
+    "page": "Course Detail",
+    "module": "None",
+    "widget": "Scroll",
+    "startTimeTick": 133129,
+    "duration": 95
+  },
+  {
+    "operationId": "test1-1728441364090-00000031",
+    "page": "Course Detail",
+    "module": "None",
+    "widget": "Blank(691, 396)",
+    "startTimeTick": 137965,
+    "duration": 43
+  },
+  {
+    "operationId": "test1-1728441364090-00000032",
+    "page": "Course Detail",
+    "module": "None",
+    "widget": "Scroll",
+    "startTimeTick": 141004,
+    "duration": 62
+  },
+  {
+    "operationId": "test1-1728441364090-00000034",
+    "page": "Course Detail",
+    "module": "Uploader",
+    "widget": "Up-input",
+    "startTimeTick": 148412,
+    "duration": 74
+  },
+  {
+    "operationId": "test1-1728441364090-00000035",
+    "page": "Course Detail",
+    "module": "Uploader",
+    "widget": "Up-CF",
+    "startTimeTick": 153498,
+    "duration": 36
+  },
+  {
+    "operationId": "test1-1728441364090-00000036",
+    "page": "Course Detail",
+    "module": "Uploader",
+    "widget": "Up-Add",
+    "startTimeTick": 155478,
+    "duration": 37
+  },
+  {
+    "operationId": "test1-1728441364090-00000037",
+    "page": "Course Detail",
+    "module": "None",
+    "widget": "Scroll",
+    "startTimeTick": 157592,
+    "duration": 91
+  },
+  {
+    "operationId": "test1-1728441364090-00000038",
+    "page": "Course Detail",
+    "module": "NLogout",
+    "widget": "N-Logout",
+    "startTimeTick": 172320,
+    "duration": 48
+  },
+  {
+    "operationId": "test2-1728441364090-00000071",
+    "page": "Home",
+    "module": "NCourse",
+    "widget": "N-Course",
+    "startTimeTick": 286325,
+    "duration": 80
+  },
+  {
+    "operationId": "test2-1728441364090-00000072",
+    "page": "Courses",
+    "module": "None",
+    "widget": "Scroll",
+    "startTimeTick": 288276,
+    "duration": 103
+  },
+  {
+    "operationId": "test2-1728441364090-00000073",
+    "page": "Courses",
+    "module": "None",
+    "widget": "Blank(31, 280)",
+    "startTimeTick": 291872,
+    "duration": 98
+  },
+  {
+    "operationId": "test2-1728441364090-00000074",
+    "page": "Courses",
+    "module": "Create",
+    "widget": "C-coursename",
+    "startTimeTick": 303804,
+    "duration": 56
+  },
+  {
+    "operationId": "test2-1728441364090-00000075",
+    "page": "Courses",
+    "module": "None",
+    "widget": "Keypress",
+    "startTimeTick": 305236,
+    "duration": 281
+  },
+  {
+    "operationId": "test2-1728441364090-00000076",
+    "page": "Courses",
+    "module": "None",
+    "widget": "Blank(834, 450)",
+    "startTimeTick": 305517,
+    "duration": 56
+  },
+  {
+    "operationId": "test2-1728441364090-00000077",
+    "page": "Courses",
+    "module": "None",
+    "widget": "Blank(804, 292)",
+    "startTimeTick": 316586,
+    "duration": 65
+  },
+  {
+    "operationId": "test2-1728441364090-00000078",
+    "page": "Courses",
+    "module": "Create",
+    "widget": "C-coursename",
+    "startTimeTick": 317472,
+    "duration": 72
+  },
+  {
+    "operationId": "test2-1728441364090-00000079",
+    "page": "Courses",
+    "module": "None",
+    "widget": "Keypress",
+    "startTimeTick": 318188,
+    "duration": 2823
+  },
+  {
+    "operationId": "test2-1728441364090-00000080",
+    "page": "Courses",
+    "module": "Search",
+    "widget": "SRCH-input",
+    "startTimeTick": 321011,
+    "duration": 80
+  },
+  {
+    "operationId": "test2-1728441364090-00000081",
+    "page": "Courses",
+    "module": "None",
+    "widget": "Keypress",
+    "startTimeTick": 322913,
+    "duration": 2324
+  },
+  {
+    "operationId": "test2-1728441364090-00000082",
+    "page": "Courses",
+    "module": "Search",
+    "widget": "SRCH-Yes",
+    "startTimeTick": 325237,
+    "duration": 56
+  },
+  {
+    "operationId": "test2-1728441364090-00000083",
+    "page": "Courses",
+    "module": "None",
+    "widget": "modal-modal-title",
+    "startTimeTick": 328271,
+    "duration": 45
+  },
+  {
+    "operationId": "test2-1728441364090-00000084",
+    "page": "Courses",
+    "module": "Join",
+    "widget": "J-Join",
+    "startTimeTick": 329208,
+    "duration": 60
+  },
+  {
+    "operationId": "test2-1728441364090-00000085",
+    "page": "Courses",
+    "module": "None",
+    "widget": "pCourses-Status",
+    "startTimeTick": 339679,
+    "duration": 57
+  },
+  {
+    "operationId": "test2-1728441364090-00000086",
+    "page": "Courses",
+    "module": "None",
+    "widget": "pCourses-Status",
+    "startTimeTick": 345563,
+    "duration": 24
+  },
+  {
+    "operationId": "test2-1728441364090-00000087",
+    "page": "Courses",
+    "module": "None",
+    "widget": "pCourses-Status",
+    "startTimeTick": 351067,
+    "duration": 3
+  },
+  {
+    "operationId": "test2-1728441364090-00000088",
+    "page": "Courses",
+    "module": "None",
+    "widget": "pCourses-Status",
+    "startTimeTick": 364972,
+    "duration": 63
+  },
+  {
+    "operationId": "test2-1728441364090-00000089",
+    "page": "Courses",
+    "module": "NCourse",
+    "widget": "N-Course",
+    "startTimeTick": 367765,
+    "duration": 54
+  },
+  {
+    "operationId": "test2-1728441364090-00000090",
+    "page": "Courses",
+    "module": "None",
+    "widget": "Blank(797, 282)",
+    "startTimeTick": 369503,
+    "duration": 26
+  },
+  {
+    "operationId": "test2-1728441364090-00000091",
+    "page": "Courses",
+    "module": "None",
+    "widget": "Blank(1459, 275)",
+    "startTimeTick": 370445,
+    "duration": 81
+  },
+  {
+    "operationId": "test2-1728441364090-00000092",
+    "page": "Courses",
+    "module": "Create",
+    "widget": "C-coursename",
+    "startTimeTick": 372042,
+    "duration": 44
+  },
+  {
+    "operationId": "test2-1728441364090-00000093",
+    "page": "Courses",
+    "module": "None",
+    "widget": "Blank(995, 208)",
+    "startTimeTick": 374586,
+    "duration": 51
+  },
+  {
+    "operationId": "test2-1728441364090-00000094",
+    "page": "Courses",
+    "module": "NCourse",
+    "widget": "N-Course",
+    "startTimeTick": 378218,
+    "duration": 88
+  },
+  {
+    "operationId": "test2-1728441364090-00000095",
+    "page": "Courses",
+    "module": "Home",
+    "widget": "N-Home",
+    "startTimeTick": 383137,
+    "duration": 77
+  },
+  {
+    "operationId": "test2-1728441364090-00000096",
+    "page": "Home",
+    "module": "NCourse",
+    "widget": "N-Course",
+    "startTimeTick": 384426,
+    "duration": 52
+  },
+  {
+    "operationId": "test2-1728441364090-00000097",
+    "page": "Courses",
+    "module": "Home",
+    "widget": "N-ASSTclassroom",
+    "startTimeTick": 386708,
+    "duration": 49
+  },
+  {
+    "operationId": "test2-1728441364090-00000098",
+    "page": "Home",
+    "module": "None",
+    "widget": "Scroll",
+    "startTimeTick": 387610,
+    "duration": 119
+  },
+  {
+    "operationId": "test2-1728441364090-00000100",
+    "page": "Home",
+    "module": "Home",
+    "widget": "N-Home",
+    "startTimeTick": 388661,
+    "duration": 25
+  },
+  {
+    "operationId": "test2-1728441364090-00000101",
+    "page": "Home",
+    "module": "NCourse",
+    "widget": "N-Course",
+    "startTimeTick": 390052,
+    "duration": 46
+  },
+  {
+    "operationId": "test2-1728441364090-00000102",
+    "page": "Courses",
+    "module": "None",
+    "widget": "Blank(310, 284)",
+    "startTimeTick": 391123,
+    "duration": 54
+  },
+  {
+    "operationId": "test2-1728441364090-00000103",
+    "page": "Courses",
+    "module": "Create",
+    "widget": "C-coursename",
+    "startTimeTick": 392885,
+    "duration": 55
+  },
+  {
+    "operationId": "test2-1728441364090-00000104",
+    "page": "Courses",
+    "module": "None",
+    "widget": "Blank(1456, 282)",
+    "startTimeTick": 393671,
+    "duration": 63
+  },
+  {
+    "operationId": "test2-1728441364090-00000105",
+    "page": "Courses",
+    "module": "CheckCourse",
+    "widget": "CC-coursename",
+    "startTimeTick": 395886,
+    "duration": 65
+  },
+  {
+    "operationId": "test2-1728441364090-00000106",
+    "page": "Courses",
+    "module": "None",
+    "widget": "Blank(782, 283)",
+    "startTimeTick": 396712,
+    "duration": 64
+  },
+  {
+    "operationId": "test2-1728441364090-00000107",
+    "page": "Course Detail",
+    "module": "None",
+    "widget": "pLearn-Courseware",
+    "startTimeTick": 406267,
+    "duration": 51
+  },
+  {
+    "operationId": "test2-1728441364090-00000108",
+    "page": "Course Detail",
+    "module": "None",
+    "widget": "Blank(662, 390)",
+    "startTimeTick": 407138,
+    "duration": 72
+  },
+  {
+    "operationId": "test2-1728441364090-00000109",
+    "page": "Course Detail",
+    "module": "Download",
+    "widget": "DL-Download",
+    "startTimeTick": 408596,
+    "duration": 29
+  },
+  {
+    "operationId": "test2-1728441364090-00000110",
+    "page": "undefined",
+    "module": "None",
+    "widget": "Blank(1102, 89)",
+    "startTimeTick": 412716,
+    "duration": 45
+  },
+  {
+    "operationId": "test2-1728441364090-00000111",
+    "page": "undefined",
+    "module": "None",
+    "widget": "Blank(1203, 79)",
+    "startTimeTick": 413618,
+    "duration": 73
+  },
+  {
+    "operationId": "test2-1728441364090-00000112",
+    "page": "undefined",
+    "module": "Download",
+    "widget": "DL-close",
+    "startTimeTick": 415058,
+    "duration": 58
+  },
+  {
+    "operationId": "test2-1728441364090-00000113",
+    "page": "Course Detail",
+    "module": "None",
+    "widget": "Backward",
+    "startTimeTick": 415161,
+    "duration": 46
+  },
+  {
+    "operationId": "test2-1728441364090-00000114",
+    "page": "Course Detail",
+    "module": "NLogout",
+    "widget": "N-Logout",
+    "startTimeTick": 416532,
+    "duration": 71
+  }
+]

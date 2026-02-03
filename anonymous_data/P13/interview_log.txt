@@ -1,0 +1,2 @@
+1. The mobile view (if applicable) was broken.
+2. The contrast between text and background is low.

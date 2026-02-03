@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# Unignore specific files and folders
+!tool_src/
+!tool_src/**
+!anonymous_data/
+!anonymous_data/**
+!README.md
+!.gitignore
+
+# Ignore all mp4 files (even in unignored folders)
+*.mp4

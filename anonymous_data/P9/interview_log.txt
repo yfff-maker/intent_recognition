@@ -1,0 +1,3 @@
+1. Login Page: The background image distracts attention.
+2. Upload Courseware: The entry point is hard to find, and the long page structure is not obvious.
+3. Upload Courseware: The bold text on the page is misleading.

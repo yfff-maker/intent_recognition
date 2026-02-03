@@ -1,0 +1,2 @@
+1. The search function didn't return the expected results.
+2. It was unclear how to return to the previous page.

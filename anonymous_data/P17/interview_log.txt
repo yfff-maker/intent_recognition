@@ -1,0 +1,2 @@
+1. I didn't receive any confirmation after submitting the form.
+2. The loading time between pages is too long.

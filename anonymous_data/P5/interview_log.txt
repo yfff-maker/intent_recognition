@@ -1,0 +1,2 @@
+1. The 'Next' button was hidden below the fold.
+2. The instructions for the task were ambiguous.

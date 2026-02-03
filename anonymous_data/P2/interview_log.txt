@@ -1,0 +1,4 @@
+1. Login: The 'submit' button is confusing.
+2. Upload Courseware: The controls on the c1 page are not obvious, and the navigation is confusing.
+3. Task 2 Download Courseware: Spent time searching here as well due to the unobvious controls and confusing navigation mentioned earlier.
+4. Learn: The controls are confusing.

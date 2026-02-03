@@ -1,0 +1,2 @@
+1. The error messages were not helpful.
+2. I had to restart the task because I got stuck.
