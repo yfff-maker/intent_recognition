@@ -45,7 +45,7 @@ STRATEGY_WINDOWS = {
 }
 
 # Key-event selection to control tokens
-KEY_EVENT_TARGET_K = 300  # select up to K key events from full sequence
+KEY_EVENT_TARGET_K = 600  # select up to K key events from full sequence (increased from 300)
 KEY_EVENT_NUM_BINS = 12   # coverage bins across time
 KEY_EVENT_TOP_M_PER_BIN = 40
 KEY_EVENT_NEAR_DT_MS = 300  # de-duplicate near-duplicate key events by time proximity
@@ -55,9 +55,9 @@ COMPRESS_MERGE_CONSECUTIVE = True
 PROMPT_MAX_EVENT_LINES = 120  # hard cap to avoid token explosion
 
 # Memory (LTM) parameters
-MEMORY_CHUNK_SIZE = 60
+MEMORY_CHUNK_SIZE = 30  # reduced from 60 for finer granularity (30 events ≈ 1min activity)
 MEMORY_MAX_ITEMS = 50
-MEMORY_RETRIEVE_TOP_K = 5
+MEMORY_RETRIEVE_TOP_K = 5  # retrieves 5 out of ~20 chunks (25% selection rate)
 
 # Intent label set (closed-set recommended for evaluation)
 INTENT_LABELS = [
