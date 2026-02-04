@@ -60,9 +60,9 @@ def main():
 
     all_rows = []
     
-    # Output file paths
-    csv_output_path = os.path.join(OUTPUT_DIR, "intent_inference_results.csv" if LLM_TASK == "INTENT" else "inferred_requirements.csv")
-    xlsx_output_path = os.path.join(OUTPUT_DIR, "intent_inference_results.xlsx" if LLM_TASK == "INTENT" else "inferred_requirements.xlsx")
+    # Output file paths (with reasoning)
+    csv_output_path = os.path.join(OUTPUT_DIR, "intent_inference_results_with_reasoning.csv" if LLM_TASK == "INTENT" else "inferred_requirements_with_reasoning.csv")
+    xlsx_output_path = os.path.join(OUTPUT_DIR, "intent_inference_results_with_reasoning.xlsx" if LLM_TASK == "INTENT" else "inferred_requirements_with_reasoning.xlsx")
     
     # Remove old CSV if exists (fresh start)
     if os.path.exists(csv_output_path):
@@ -153,6 +153,7 @@ def main():
                             "Strategy": strategy,
                             "Intent": parsed.get("intent"),
                             "Confidence": parsed.get("confidence"),
+                            "Reasoning": parsed.get("reasoning", ""),
                             "Evidence": str(parsed.get("evidence")),
                             "Notes": parsed.get("notes", ""),
                             "Prompt": prompt,

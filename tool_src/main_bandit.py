@@ -61,10 +61,10 @@ def main():
     all_rows = []
     all_bandit_stats = []  # 存储Bandit统计信息
     
-    # Output file paths - 使用不同的文件名
-    csv_output_path = os.path.join(OUTPUT_DIR, "intent_inference_results_bandit.csv" if LLM_TASK == "INTENT" else "inferred_requirements_bandit.csv")
-    xlsx_output_path = os.path.join(OUTPUT_DIR, "intent_inference_results_bandit.xlsx" if LLM_TASK == "INTENT" else "inferred_requirements_bandit.xlsx")
-    stats_output_path = os.path.join(OUTPUT_DIR, "memory_bank_statistics.xlsx")
+    # Output file paths - 使用不同的文件名 (with reasoning)
+    csv_output_path = os.path.join(OUTPUT_DIR, "intent_inference_results_bandit_with_reasoning.csv" if LLM_TASK == "INTENT" else "inferred_requirements_bandit_with_reasoning.csv")
+    xlsx_output_path = os.path.join(OUTPUT_DIR, "intent_inference_results_bandit_with_reasoning.xlsx" if LLM_TASK == "INTENT" else "inferred_requirements_bandit_with_reasoning.xlsx")
+    stats_output_path = os.path.join(OUTPUT_DIR, "memory_bank_statistics_with_reasoning.xlsx")
     
     # Remove old CSV if exists (fresh start)
     if os.path.exists(csv_output_path):
@@ -170,6 +170,7 @@ def main():
                             "Strategy": strategy,
                             "Intent": parsed.get("intent"),
                             "Confidence": parsed.get("confidence"),
+                            "Reasoning": parsed.get("reasoning", ""),
                             "Evidence": str(parsed.get("evidence")),
                             "Notes": parsed.get("notes", ""),
                             "Prompt": prompt,

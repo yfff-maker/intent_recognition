@@ -27,9 +27,8 @@ You are an analyst for long-sequence intent inference from interaction logs.
 Given the task goal context, the detected abnormal pattern, short-term behavioral evidence (STM), and retrieved long-term memory summaries (LTM),
 infer the user's intent and provide evidence references.
 
-### Goal Context
-- User Goal: {task_info.get('objective')}
-- Expected Actions: {task_info.get('expected_actions')}
+### Task Context
+- User Task: {task_info.get('objective')}
 
 ### Abnormal Pattern (Anchor)
 - Type: {anomaly.get('type')}
@@ -50,6 +49,7 @@ Choose intent from this closed set: {labels_json}
 Return JSON with keys:
 - "intent": string (one label from the list)
 - "confidence": number (0..1)
+- "reasoning": string (详细的推理说明，解释为什么选择这个意图，需要结合STM和LTM中的关键行为模式进行分析，3-5句话)
 - "evidence": list of objects, each with:
     - "event_idx": string (e.g., "12" or "12..15")
     - "why": string (short reason grounded in STM/LTM)
